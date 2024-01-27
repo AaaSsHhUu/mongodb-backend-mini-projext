@@ -1,0 +1,20 @@
+h3{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.chat{
+    background: aliceblue;
+    padding: 0.5rem;
+    border-radius: 10px;
+    display: inline-block;
+    min-width: 250px;
+}
+
+.msg{
+    background: dodgerblue;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 1.2rem;
+}
